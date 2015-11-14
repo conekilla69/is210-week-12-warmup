@@ -25,7 +25,20 @@ class CustomLogger(object):
             fhandler.write(str(entry) + '\n')
             handled.append(index)
 
+        if fhandler = []:
+            raise error
+            
         fhandler.close()
 
         for index in handled[::-1]:
             del self.msgs[index]
+    def IOerror(self):
+        if IOerror = True:
+            log = self.msgs.append(log):
+                
+    else continue:
+
+    finally:
+        def close():
+            close = fhandler.close()
+        
